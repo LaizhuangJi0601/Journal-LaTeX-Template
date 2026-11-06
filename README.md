@@ -25,9 +25,7 @@ MarkFlow AW 的期刊模板导入包。每个 ZIP 以期刊全称命名，解压
 
 ## 使用
 
-1. 解压 ZIP 到任意目录，编译 `main.tex`。
-2. 或在 MarkFlow AW 中打开 **设置 → AI → 期刊模板 → 导入 ZIP**。
-3. 同名模板导入时选择覆盖或取消；转换 TeX 时选择对应模板。
+解压 ZIP 到任意目录，编译 `main.tex`。
 
 ## 模板包结构
 
@@ -44,6 +42,6 @@ MarkFlow AW 的期刊模板导入包。每个 ZIP 以期刊全称命名，解压
 
 ## 许可
 
-- 本仓库的 README 与清单文件：MIT，见 [LICENSE](LICENSE)。
+- 本仓库的 README 与 ZIP 内 `manifest.json`：MIT，见 [LICENSE](LICENSE)。
 - 各模板文件遵循模板内 `LICENSE.txt` 所列许可；多数为 LPPL-1.3c，全文见 [LICENSES/LPPL-1.3c.txt](LICENSES/LPPL-1.3c.txt)。
 - 模板版权归原发布者所有；来源见上表。
