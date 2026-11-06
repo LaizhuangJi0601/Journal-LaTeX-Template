@@ -20,6 +20,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Note: this MIT license applies only to the repository's own README, manifest
-files, and build scripts. The LaTeX templates under templates/ and dist/ are
-covered by their original licenses; see THIRD_PARTY_NOTICES.md.
+Note: this MIT license applies only to the repository's README and manifest
+files. The LaTeX template files are covered by their original licenses; see
+README.md and each ZIP's LICENSE.txt.
