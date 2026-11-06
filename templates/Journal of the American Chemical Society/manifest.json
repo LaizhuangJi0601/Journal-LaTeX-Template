@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "name": "Journal of the American Chemical Society",
+  "entry": "main.tex",
+  "scope": "journal-specific",
+  "publisher": "American Chemical Society",
+  "description": "JACS 投稿模板（achemso，ACS 期刊样式）。",
+  "source": "https://ctan.org/pkg/achemso",
+  "license": "LPPL-1.3c",
+  "version": "2026-11-06"
+}

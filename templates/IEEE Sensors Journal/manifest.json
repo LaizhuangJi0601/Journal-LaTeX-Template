@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "name": "IEEE Sensors Journal",
+  "entry": "main.tex",
+  "scope": "journal-specific",
+  "publisher": "IEEE",
+  "description": "IEEE Sensors Journal 投稿模板；基于 IEEEtran journal 模式，附期刊要求说明。",
+  "source": "https://ctan.org/pkg/ieeetran",
+  "license": "LPPL-1.3c",
+  "version": "2026-11-06",
+  "base": "IEEE Transactions (Generic)"
+}

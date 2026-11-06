@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "name": "RSC Advances",
+  "entry": "main.tex",
+  "scope": "journal-specific",
+  "publisher": "Royal Society of Chemistry",
+  "description": "RSC Advances 投稿模板；article 文档类 + rsc 参考文献样式。",
+  "source": "https://ctan.org/pkg/rsc",
+  "license": "LPPL-1.3c",
+  "version": "2026-11-06"
+}

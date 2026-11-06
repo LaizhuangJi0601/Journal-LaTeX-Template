@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "name": "IEEE Transactions (Generic)",
+  "entry": "main.tex",
+  "scope": "generic",
+  "publisher": "IEEE",
+  "description": "IEEE Transactions/Journal 通用 LaTeX 模板（IEEEtran journal 模式）。",
+  "source": "https://ctan.org/pkg/ieeetran",
+  "license": "LPPL-1.3c",
+  "version": "2026-11-06"
+}

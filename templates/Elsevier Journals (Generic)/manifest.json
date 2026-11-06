@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "name": "Elsevier Journals (Generic)",
+  "entry": "main.tex",
+  "scope": "generic",
+  "publisher": "Elsevier",
+  "description": "Elsevier 期刊通用 LaTeX 模板（elsarticle，数字引用样式）。",
+  "source": "https://ctan.org/pkg/elsarticle",
+  "license": "LPPL-1.3c",
+  "version": "2026-11-06"
+}
