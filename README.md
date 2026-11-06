@@ -25,6 +25,13 @@
 
 > 已验证：上述 10 个公开模板的 `main.tex` 均用 TeX Live 2026 + `latexmk -pdf` 编译通过（2026-11-06）。
 
+## IEEE Transactions 说明
+
+- 多数 IEEE Transactions / Journals / Letters 使用 **IEEEtran 通用模板**；本仓库的 `IEEE Transactions (Generic).zip` 可直接作为起点。
+- **IEEE TIM**、**IEEE Sensors Journal** 另提供期刊专用包，仍基于 IEEEtran，附 `requirements.md`。
+- **IEEE Access** 使用独立的 `ieeeaccess.cls`，官方模板未随本仓库分发，见 [official-sources.md](official-sources.md)。
+- 若目标期刊有特殊要求，请用 [IEEE Template Selector](https://template-selector.ieee.org/) 选择该期刊后下载最新模板。
+
 ## 在 MarkFlow AW 中导入
 
 1. 打开 **设置 → AI → 期刊模板**。
