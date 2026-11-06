@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-06",
+  "templates": [
+    {
+      "name": "ACM Transactions (Generic)",
+      "file": "dist/ACM Transactions (Generic).zip",
+      "entry": "main.tex",
+      "scope": "generic",
+      "publisher": "ACM",
+      "license": "LPPL-1.3c",
+      "source": "https://ctan.org/pkg/acmart",
+      "sha256": "80eff84c466013e685df918ac61deef681f8ea917a231866e7f67f729a596350",
+      "size": 188835
+    },
+    {
+      "name": "Elsevier Journals (Generic)",
+      "file": "dist/Elsevier Journals (Generic).zip",
+      "entry": "main.tex",
+      "scope": "generic",
+      "publisher": "Elsevier",
+      "license": "LPPL-1.3c",
+      "source": "https://ctan.org/pkg/elsarticle",
+      "sha256": "57e44152c43a10e203a0ca4dcbf23f66e8c652ab37b14c866b212154a3a2923f",
+      "size": 40186
+    },
+    {
+      "name": "IEEE Sensors Journal",
+      "file": "dist/IEEE Sensors Journal.zip",
+      "entry": "main.tex",
+      "scope": "journal-specific",
+      "publisher": "IEEE",
+      "license": "LPPL-1.3c",
+      "source": "https://ctan.org/pkg/ieeetran",
+      "sha256": "7f58ce99c670fcda984ddd117ab69691ca9d8d8986ecab414bff565cb923bae3",
+      "size": 102579
+    },
+    {
+      "name": "IEEE Transactions (Generic)",
+      "file": "dist/IEEE Transactions (Generic).zip",
+      "entry": "main.tex",
+      "scope": "generic",
+      "publisher": "IEEE",
+      "license": "LPPL-1.3c",
+      "source": "https://ctan.org/pkg/ieeetran",
+      "sha256": "4bcdec1bb4458c6d16a3d3d13d344fdd946291eaeea3679e4a92eb4f4fa8e5d2",
+      "size": 102177
+    },
+    {
+      "name": "IEEE Transactions on Instrumentation and Measurement",
+      "file": "dist/IEEE Transactions on Instrumentation and Measurement.zip",
+      "entry": "main.tex",
+      "scope": "journal-specific",
+      "publisher": "IEEE",
+      "license": "LPPL-1.3c",
+      "source": "https://ctan.org/pkg/ieeetran",
+      "sha256": "d3614af9fba18a76727bd84d387f1a68c3baee6a370a6aa02aaeaf4ff2d70ea8",
+      "size": 102696
+    },
+    {
+      "name": "Journal of the American Chemical Society",
+      "file": "dist/Journal of the American Chemical Society.zip",
+      "entry": "main.tex",
+      "scope": "journal-specific",
+      "publisher": "American Chemical Society",
+      "license": "LPPL-1.3c",
+      "source": "https://ctan.org/pkg/achemso",
+      "sha256": "3b0757fe7d5a200b5272e1d12fd092d143cbd0cae5aba6c84a329ddd0f2f3729",
+      "size": 38970
+    },
+    {
+      "name": "Measurement (Elsevier)",
+      "file": "dist/Measurement (Elsevier).zip",
+      "entry": "main.tex",
+      "scope": "journal-specific",
+      "publisher": "Elsevier",
+      "license": "LPPL-1.3c",
+      "source": "https://ctan.org/pkg/elsarticle",
+      "sha256": "10d1b8f1a584fc60bd8e66a1bf7d2bef5db66c1753928a28f5e9c1f74d03681e",
+      "size": 40537
+    },
+    {
+      "name": "Physical Review Letters",
+      "file": "dist/Physical Review Letters.zip",
+      "entry": "main.tex",
+      "scope": "journal-specific",
+      "publisher": "American Physical Society",
+      "license": "LPPL-1.3c",
+      "source": "https://ctan.org/pkg/revtex",
+      "sha256": "c64f6c4b162de27e802f1216ee87101e0a6c731f1c238e847566bae128a187f0",
+      "size": 211982
+    },
+    {
+      "name": "RSC Advances",
+      "file": "dist/RSC Advances.zip",
+      "entry": "main.tex",
+      "scope": "journal-specific",
+      "publisher": "Royal Society of Chemistry",
+      "license": "LPPL-1.3c",
+      "source": "https://ctan.org/pkg/rsc",
+      "sha256": "b447b4d83ebc540216b1fa91c69db5212b415e958cc97040bffc532bea7793e1",
+      "size": 22097
+    },
+    {
+      "name": "Springer Nature Journals (Generic)",
+      "file": "dist/Springer Nature Journals (Generic).zip",
+      "entry": "main.tex",
+      "scope": "generic",
+      "publisher": "Springer Nature",
+      "license": "LPPL-1.3c",
+      "source": "https://www.springernature.com/gp/authors/campaigns/latex-templates",
+      "sha256": "7ee9b27e2ccbccd991b2e4f1427bf0c8cf98271feb0eb461b32396b5ba9a8961",
+      "size": 133788
+    }
+  ]
+}

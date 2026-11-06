@@ -21,7 +21,7 @@
 | RSC Advances.zip | RSC | CTAN `rsc` | LPPL-1.3c |
 | Springer Nature Journals (Generic).zip | Springer Nature 通用 | Springer Nature + CTAN | LPPL-1.3c |
 
-所有公开 ZIP 位于 `dist/`；也可从 [Releases](https://github.com/LaizhuangJi0601/Journal-LaTeX-Template/releases) 下载。`templates/` 是解包后的源目录，便于检查与重新打包；`SHA256SUMS.txt` 提供校验值。
+所有公开 ZIP 位于 `dist/`；也可从 [Releases](https://github.com/LaizhuangJi0601/Journal-LaTeX-Template/releases) 下载。`templates/` 是解包后的源目录，便于检查与重新打包；`index.json` 提供模板清单、下载路径与 SHA-256，`SHA256SUMS.txt` 提供校验值。
 
 > 已验证：上述 10 个公开模板的 `main.tex` 均用 TeX Live 2026 + `latexmk -pdf` 编译通过（2026-11-06）。
 
