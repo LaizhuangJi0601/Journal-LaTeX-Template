@@ -23,6 +23,8 @@
 
 所有公开 ZIP 位于 `dist/`。`templates/` 是解包后的源目录，便于检查与重新打包。
 
+> 已验证：上述 10 个公开模板的 `main.tex` 均用 TeX Live 2026 + `latexmk -pdf` 编译通过（2026-11-06）。
+
 ## 在 MarkFlow AW 中导入
 
 1. 打开 **设置 → AI → 期刊模板**。
