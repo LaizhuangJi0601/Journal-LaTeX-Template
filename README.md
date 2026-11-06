@@ -20,10 +20,18 @@
 | Journal of the American Chemical Society.zip | ACS / JACS | CTAN `achemso` | LPPL-1.3c |
 | RSC Advances.zip | RSC | CTAN `rsc` | LPPL-1.3c |
 | Springer Nature Journals (Generic).zip | Springer Nature 通用 | Springer Nature + CTAN | LPPL-1.3c |
+| Nature Portfolio (Springer Nature).zip | Nature Portfolio 专用 | Springer Nature `sn-jnl`（`sn-nature`） | LPPL-1.3c |
+| AIP Publishing Journals (Generic).zip | AIP 通用 | CTAN `revtex`（AIP substyle） | LPPL-1.3c |
+| IOP Publishing Journals (Generic).zip | IOP 通用 | `iopart`（IOP） | LPPL-1.3c |
+| Cell (Generic).zip | Cell 社区样式 | CTAN `cell` | public domain |
 
 所有公开 ZIP 位于 `dist/`；也可从 [Releases](https://github.com/LaizhuangJi0601/Journal-LaTeX-Template/releases) 下载。`templates/` 是解包后的源目录，便于检查与重新打包；`index.json` 提供模板清单、下载路径与 SHA-256，`SHA256SUMS.txt` 提供校验值。
 
-> 已验证：上述 10 个公开模板的 `main.tex` 均用 TeX Live 2026 + `latexmk -pdf` 编译通过（2026-11-06）。
+> 已验证：上述 14 个公开模板的 `main.tex` 均用 TeX Live 2026 + `latexmk -pdf` 编译通过（2026-11-06）。
+
+## 未包含的出版社模板
+
+IEEE Access、Wiley、Science、MDPI、Taylor & Francis、Optica 等模板的版权或许可不明确，**未放入本仓库**；请从 [official-sources.md](official-sources.md) 的官方页面下载后导入。本地副本可放在 `proprietary/`（已加入 `.gitignore`，不会被提交）。
 
 ## IEEE Transactions 说明
 

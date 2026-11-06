@@ -14,6 +14,28 @@
       "size": 188835
     },
     {
+      "name": "AIP Publishing Journals (Generic)",
+      "file": "dist/AIP Publishing Journals (Generic).zip",
+      "entry": "main.tex",
+      "scope": "generic",
+      "publisher": "AIP Publishing",
+      "license": "LPPL-1.3c",
+      "source": "https://ctan.org/pkg/revtex",
+      "sha256": "05a9b79d64c502264dad7a9b34b155c6d049ad39eb7c9256eb94d8231466cdf7",
+      "size": 207836
+    },
+    {
+      "name": "Cell (Generic)",
+      "file": "dist/Cell (Generic).zip",
+      "entry": "main.tex",
+      "scope": "journal-specific",
+      "publisher": "Cell Press",
+      "license": "public domain",
+      "source": "https://ctan.org/pkg/cell",
+      "sha256": "81be8b2f8eb6bb55f161c18775f05ead550eb63d4c50fab40de00034053d0aea",
+      "size": 13719
+    },
+    {
       "name": "Elsevier Journals (Generic)",
       "file": "dist/Elsevier Journals (Generic).zip",
       "entry": "main.tex",
@@ -58,6 +80,17 @@
       "size": 102696
     },
     {
+      "name": "IOP Publishing Journals (Generic)",
+      "file": "dist/IOP Publishing Journals (Generic).zip",
+      "entry": "main.tex",
+      "scope": "generic",
+      "publisher": "IOP Publishing",
+      "license": "LPPL-1.3c",
+      "source": "https://publishingsupport.iopscience.iop.org/questions/latex-template/",
+      "sha256": "eb965993083e6b978bb44c13314512dfd966c5ac9bcbef75bb8c1c8f16b89714",
+      "size": 23692
+    },
+    {
       "name": "Journal of the American Chemical Society",
       "file": "dist/Journal of the American Chemical Society.zip",
       "entry": "main.tex",
@@ -78,6 +111,17 @@
       "source": "https://ctan.org/pkg/elsarticle",
       "sha256": "10d1b8f1a584fc60bd8e66a1bf7d2bef5db66c1753928a28f5e9c1f74d03681e",
       "size": 40537
+    },
+    {
+      "name": "Nature Portfolio (Springer Nature)",
+      "file": "dist/Nature Portfolio (Springer Nature).zip",
+      "entry": "main.tex",
+      "scope": "journal-specific",
+      "publisher": "Springer Nature",
+      "license": "LPPL-1.3c",
+      "source": "https://www.springernature.com/gp/authors/campaigns/latex-templates",
+      "sha256": "a02c20537a72b2edbe1c140fb257adf70b0c93c2e97e70401eeca816c75324a6",
+      "size": 46757
     },
     {
       "name": "Physical Review Letters",

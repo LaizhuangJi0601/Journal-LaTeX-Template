@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "name": "Cell (Generic)",
+  "entry": "main.tex",
+  "scope": "journal-specific",
+  "publisher": "Cell Press",
+  "description": "Cell 期刊通用样式（社区 cell.sty/cell.bst，公开领域）。",
+  "source": "https://ctan.org/pkg/cell",
+  "license": "public domain",
+  "version": "2026-11-06"
+}

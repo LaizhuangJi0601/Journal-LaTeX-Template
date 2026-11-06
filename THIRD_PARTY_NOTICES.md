@@ -11,6 +11,9 @@
 | achemso | Joseph Wright / ACS | LPPL-1.3c | https://ctan.org/pkg/achemso |
 | rsc | Joseph Wright / RSC | LPPL-1.3c | https://ctan.org/pkg/rsc |
 | sn-jnl | Springer Nature / LaTeX3 Project | LPPL-1.3c | https://www.springernature.com/gp/authors/campaigns/latex-templates |
+| REVTeX AIP substyle | AIP Publishing / APS | LPPL-1.3c | https://ctan.org/pkg/revtex |
+| iopart | IOP Publishing Ltd | LPPL-1.3c | https://publishingsupport.iopscience.iop.org/ |
+| cell.sty / cell.bst | Thomas D. Schneider | public domain | https://ctan.org/pkg/cell |
 
 LPPL-1.3c 全文见 [LICENSES/LPPL-1.3c.txt](LICENSES/LPPL-1.3c.txt)。
 

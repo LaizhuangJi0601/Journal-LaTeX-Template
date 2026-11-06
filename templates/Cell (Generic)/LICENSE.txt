@@ -1,0 +1,3 @@
+This style file is public domain as stated by its author.
+Source: 
+https://ctan.org/pkg/cell

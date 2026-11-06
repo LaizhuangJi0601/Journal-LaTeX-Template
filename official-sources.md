@@ -8,9 +8,11 @@
 | IEEE 各期刊/会议（Template Selector） | https://template-selector.ieee.org/ |
 | Wiley NJD | https://authorservices-ppd.wiley.com/author-resources/Journal-Authors/Prepare/new-journal-design.html |
 | Wiley Optimal Design | https://authors.aws.wiley.com/author-resources/Journal-Authors/Prepare/latex-template.html |
+| Science（AAAS） | https://www.science.org/content/page/preparing-manuscripts-using-latex |
 | MDPI | https://www.mdpi.com/authors/latex |
 | IOP Publishing | https://publishingsupport.iopscience.iop.org/author-guidelines/ |
 | Taylor & Francis | https://authorservices.taylorandfrancis.com/publishing-your-research/writing-your-paper/latex/ |
+| Optica Publishing Group | https://opg.optica.org/submit/templates/ |
 | Springer Nature | https://www.springernature.com/gp/authors/campaigns/latex-templates |
 | Elsevier elsarticle | https://www.elsevier.com/researcher/author/policies-and-guidelines/latex-instructions |
 | ACS（achemso） | https://ctan.org/pkg/achemso |
